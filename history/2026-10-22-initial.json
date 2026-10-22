@@ -1,0 +1,154 @@
+{
+  "schema_version": "1.1.0",
+  "title": "财经人物灵动岛",
+  "updated_at": "2026-10-22T08:17:28.734Z",
+  "coverage": {
+    "status": "partial",
+    "complete_timeline": false,
+    "original_post_access": "403",
+    "method": [
+      "public_search_index",
+      "third_party_body_reproduction",
+      "user_editorial_selection"
+    ],
+    "note": "部分原文及引用链未完整取得；记录为有来源的观点摘编，不能视为已验证成交或完整时间线。"
+  },
+  "watchlist": [
+    {
+      "handle": "xtony1314",
+      "name": "逍遥XTony（2分钟版）",
+      "url": "https://x.com/xtony1314"
+    }
+  ],
+  "records": [
+    {
+      "id": "xtony1314-china-tech-thesis",
+      "author": "xtony1314",
+      "title": "看好中国科技产业发展，同时看空相关股票",
+      "record_type": "investment_thesis",
+      "temporal_scope": "historical_context",
+      "direction": "bearish_equities_despite_bullish_industry",
+      "assets": [
+        "中国科技股",
+        "中证500",
+        "中证1000"
+      ],
+      "summary": "作者区分产业技术进步与股东回报：科技突破吸引大量企业进入、产能扩张、竞争加剧，可能压低利润，进而拖累股票回报。其历史帖自述做空约1000W A股，主要涉及中证500及中证1000；币种未在已取得片段中明确。",
+      "logic": [
+        "产业突破不必然带来可持续利润。",
+        "他以企业增加、产能扩张、利润下降解释产业看多与股票看空能够并存。"
+      ],
+      "levels": [],
+      "execution": {
+        "type": "historical_self_report",
+        "verified_fills": false,
+        "current_position_known": false
+      },
+      "sources": [
+        {
+          "url": "https://x.com/xtony1314/status/2087351851536777682",
+          "role": "historical_original",
+          "published_at": "2026-08-12T01:33:57.185Z",
+          "evidence": "indexed_excerpts"
+        },
+        {
+          "url": "https://x.com/xtony1314/status/2109837450852106253",
+          "role": "later_quote_comment",
+          "published_at": "2026-10-13T02:43:41.824Z",
+          "evidence": "indexed_excerpts"
+        }
+      ],
+      "verification": {
+        "status": "partial",
+        "limitations": [
+          "未完整读取原帖正文及全部图表。",
+          "不能确认当前仍持有对应空头仓位。",
+          "较晚引用为10月13日，不应伪装为10月15日至22日新发布。"
+        ]
+      },
+      "user_selected": true,
+      "is_trade_instruction": false
+    },
+    {
+      "id": "x:2112806647164961274",
+      "author": "xtony1314",
+      "title": "准备抄底：结合创业板2500点与2300点的历史引用理解",
+      "record_type": "quote_chain_update",
+      "temporal_scope": "weekly_update_with_historical_quote",
+      "published_at": "2026-10-21T07:22:13.390Z",
+      "direction": "prepare_to_buy",
+      "assets": [
+        "A股",
+        "创业板指数（历史引用明确提及）"
+      ],
+      "summary": "10月21日作者以回顾旧帖的方式表示准备开始抄底。可检索引用片段此前提到创业板将跌到2500点、反弹后清仓，并提到2300左右拟重仓买入。这些应一起保留为观察其交易框架的线索，但不能把2500直接改写为已确认的本次买点，也不能写成已经建仓。",
+      "logic": [
+        "历史片段强调A股波动与公司盈利能力问题。",
+        "可把产业和盈利逻辑与阶段性抄底意向并列阅读；尚不足以确认精确时序、仓位和执行条件。"
+      ],
+      "levels": [
+        {
+          "value": 2500,
+          "unit": "index_points",
+          "asset": "创业板指数",
+          "role": "历史引用中的下跌目标，随后提及反弹清仓",
+          "is_new_target": false
+        },
+        {
+          "value": 2300,
+          "unit": "index_points",
+          "asset": "创业板指数（依据相邻引用上下文，原帖链仍需核实）",
+          "role": "历史引用中拟重仓买入的位置",
+          "is_new_target": false
+        }
+      ],
+      "execution": {
+        "type": "intent_only",
+        "verified_fills": false,
+        "current_position_known": false
+      },
+      "sources": [
+        {
+          "url": "https://x.com/xtony1314/status/2112806647164961274",
+          "role": "new_quote_post",
+          "published_at": "2026-10-21T07:22:13.390Z",
+          "evidence": "indexed_body_and_quote_excerpts"
+        },
+        {
+          "url": "https://sopilot.net/zh/rank/creators/xtony1314?range=7d&sort=followers&trend=30d",
+          "role": "body_reproduction",
+          "evidence": "new_body_corroboration_only"
+        }
+      ],
+      "quoted_original": {
+        "date_label": "Jul 21",
+        "year": null,
+        "url": null,
+        "verification": "未取得完整原帖链接；被引日期与引用日期必须分别处理。"
+      },
+      "verification": {
+        "status": "partial",
+        "limitations": [
+          "本次准备抄底表述可由转载正文交叉核对。",
+          "2500及2300点位来自引用片段，未完整取得旧帖原文。",
+          "未核实旧目标是否在本次被重新确认，不能当作确定交易指令。"
+        ]
+      },
+      "user_selected": true,
+      "is_trade_instruction": false
+    }
+  ],
+  "synthesis": {
+    "type": "editorial_inference",
+    "text": "这两条共同呈现一种区分：长期产业发展、企业利润和股票回报不是一回事；看空盈利逻辑也不必然排斥价格下跌后的阶段性交易机会。这是对材料的整理，不是作者已被完整核实的一套机械交易规则。"
+  },
+  "consumer_rules": [
+    "读取records，而不是只搜索网页标题。",
+    "按id去重，比较updated_at；原帖时间以sources或published_at为准。",
+    "temporal_scope=historical_context不属于本周新增。",
+    "verification.status=partial必须展示限制，不得说原文已经完整核实。",
+    "点位的role不可省略，is_new_target=false不能变成当前买卖价。",
+    "仅整理公开观点，不提供或执行自动下单。",
+    "未出现的新数据、仓位、期限用null或空数组，不猜测。"
+  ]
+}
