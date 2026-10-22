@@ -1,0 +1,67 @@
+{
+  "schema_version": "2.0.0",
+  "title": "财经人物灵动岛",
+  "format": "original_excerpts_with_quoted_posts",
+  "updated_at": "2026-10-22T08:22:32.671Z",
+  "coverage": {
+    "status": "partial",
+    "complete_timeline": false,
+    "original_post_access": "403"
+  },
+  "watchlist": [
+    {
+      "handle": "xtony1314",
+      "name": "逍遥XTony（2分钟版）",
+      "url": "https://x.com/xtony1314"
+    }
+  ],
+  "records": [
+    {
+      "id": "xtony1314-china-tech-thesis",
+      "author": "xtony1314",
+      "published_at": "2026-10-13T02:43:41.824Z",
+      "source_url": "https://x.com/xtony1314/status/2109837450852106253",
+      "body_excerpt": "这眼光看的够长远不？还叫不？",
+      "is_complete": false,
+      "quoted_posts": [
+        {
+          "author": "xtony1314",
+          "published_at": "2026-08-12T01:33:57.185Z",
+          "source_url": "https://x.com/xtony1314/status/2087351851536777682",
+          "body_excerpt": "越相信中国科技突破，就需要越看空中国科技股。",
+          "is_complete": false
+        }
+      ],
+      "evidence_status": "search_index_excerpts",
+      "retrieval_note": "仅获取短摘录，完整正文请打开原帖。"
+    },
+    {
+      "id": "x:2112806647164961274",
+      "author": "xtony1314",
+      "published_at": "2026-10-21T07:22:13.390Z",
+      "source_url": "https://x.com/xtony1314/status/2112806647164961274",
+      "body_excerpt": "托尼老师准备开始抄底了！",
+      "is_complete": false,
+      "quoted_posts": [
+        {
+          "author": "xtony1314",
+          "date_label": "Jul 21",
+          "published_at": null,
+          "source_url": null,
+          "body_excerpt": "创业板会跌到2500",
+          "is_complete": false,
+          "retrieval_note": "此摘录来自引用片段，未取得被引原帖完整链接。"
+        }
+      ],
+      "evidence_status": "indexed_excerpts_with_body_corroboration",
+      "retrieval_note": "只显示已获取的原文片段；没有补全引用内容。"
+    }
+  ],
+  "consumer_rules": [
+    "按顺序显示body_excerpt和quoted_posts中的原文摘录，再附原帖链接。",
+    "不总结、不改写、不解释投资逻辑、不做点位表格、不合并推导观点。",
+    "is_complete=false表示短摘录，不能声称完整原文。",
+    "引文来源或日期缺失保留null，不补写。",
+    "原帖与引用帖时间分别显示，历史帖不标为新发布。"
+  ]
+}
