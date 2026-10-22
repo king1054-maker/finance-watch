@@ -1,27 +1,16 @@
 # 财经人物灵动岛
 
-筛选公开投资人物的多空方向、目标点位和相关投资逻辑，供人阅读及AI获取。
+按主题筛选公开推文，展示作者原文短摘录、被引用内容短摘录、日期和链接。不生成摘要或二次解读。
 
-## 读取入口
+- [原文摘录](weekly-review.md)
+- [latest.json](latest.json)：其他AI读取records数组。
+- [watchlist.json](watchlist.json)：关注名单与筛选规则。
+- [AI-READING.md](AI-READING.md)：读取规范。
+- [history](history/)：历史版本；早期快照含旧版摘要，不代表当前展示规则。
 
-- [latest.json](latest.json)：结构化数据，读取 `records` 数组。
-- [投资观点摘要](weekly-review.md)：中文阅读版。
-- [watchlist.json](watchlist.json)：关注名单与筛选条件。
-- [AI-READING.md](AI-READING.md)：读取和去重规范。
-- [history](history/)：历史快照。
-
-公开仓库，无需登录读取。原始数据固定链接：
+原始数据链接：
 https://raw.githubusercontent.com/king1054-maker/finance-watch/main/latest.json
 
-## 初始内容
+当前为部分获取。is_complete=false表示短摘录，完整内容请打开原帖；未获取内容不补全。schema_version从1.1.0升级为2.0.0，已移除summary、logic、direction、levels和synthesis，读取端请使用body_excerpt及quoted_posts。
 
-两条由用户选中的相关观点：产业看多与股票看空的逻辑；10月21日准备抄底及其对创业板历史点位的引用。第一条包含10月15日前的历史背景，不标成本周新帖。
-
-## 核实与时效
-
-当前X原帖直接访问受限，数据为部分公开索引与正文转载的观点摘编；每条写明来源、时间和证据限制。记录不等于已验证成交；2500与2300点必须按各自角色读取。
-`updated_at`是文件更新时间，不代表完整时间线检查成功。
-
-## 更新
-
-有新增相关观点或实质修订时更新此仓库并保存快照；没有新增则不重复提交。自动任务是否运行，以ChatGPT任务开关为准。读取端须自行联网或配置定时任务，仓库链接不会自动唤醒其他AI。
+自动任务是否运行，以任务开关为准；公开文件不会自行唤醒其他AI。
