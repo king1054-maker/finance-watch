@@ -4,6 +4,13 @@
       "handle": "xtony1314",
       "name": "逍遥XTony（2分钟版）",
       "url": "https://x.com/xtony1314"
+    },
+    {
+      "handle": "XiaoYao_Capital",
+      "name": "XiaoYao Capital",
+      "url": "https://x.com/XiaoYao_Capital",
+      "notification_policy": "all_new_posts",
+      "filter_override": "每条可核实的新原创帖、回复及本人评论的引用帖都通知并同步；不套用全局投资主题筛选。纯转发不得冒充本人原话。"
     }
   ],
   "include": [
