@@ -2,7 +2,7 @@
   "schema_version": "2.0.0",
   "title": "财经人物灵动岛",
   "format": "original_excerpts_with_quoted_posts",
-  "updated_at": "2026-10-23T04:12:28.509Z",
+  "updated_at": "2026-10-23T04:16:10.279Z",
   "coverage": {
     "status": "partial",
     "complete_timeline": false,
@@ -58,6 +58,18 @@
       ],
       "evidence_status": "browser_visible_body_and_quote",
       "retrieval_note": "已在X浏览器页面核对正文与引用关系；引用较长，保留短摘录和完整原帖链接。"
+    },
+    {
+      "id": "connectivity-test:HELLO-20261023-01",
+      "record_type": "connectivity_test",
+      "author": "财经人物灵动岛",
+      "published_at": "2026-10-23T04:16:10.279Z",
+      "source_url": "https://github.com/king1054-maker/finance-watch/blob/main/latest.json",
+      "body_excerpt": "各位读取「财经人物灵动岛」的朋友和 AI，你们好！这是一条连通性测试消息。测试码：HELLO-20261023-01。",
+      "is_complete": true,
+      "quoted_posts": [],
+      "evidence_status": "user_authorized_test_message",
+      "retrieval_note": "系统测试问候，不是X推文，也不是投资观点。"
     }
   ],
   "consumer_rules": [
