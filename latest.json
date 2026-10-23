@@ -2,11 +2,14 @@
   "schema_version": "2.0.0",
   "title": "财经人物灵动岛",
   "format": "original_excerpts_with_quoted_posts",
-  "updated_at": "2026-10-22T08:22:32.671Z",
+  "updated_at": "2026-10-23T04:12:28.509Z",
   "coverage": {
     "status": "partial",
     "complete_timeline": false,
-    "original_post_access": "403"
+    "original_post_access": "browser_public_profile_readable",
+    "reply_timeline_access": "login_required",
+    "method": "browser_visible_dom",
+    "note": "2026-10-23已通过浏览器读取公开主页、最新帖子及嵌入引用；回复列表触发登录要求。搜索工具的403不代表浏览器页面不可读取。"
   },
   "watchlist": [
     {
@@ -46,15 +49,15 @@
         {
           "author": "xtony1314",
           "date_label": "Jul 21",
-          "published_at": null,
-          "source_url": null,
+          "published_at": "2026-07-21T03:46:15.975Z",
+          "source_url": "https://x.com/xtony1314/status/2079412616192205200",
           "body_excerpt": "创业板会跌到2500",
           "is_complete": false,
-          "retrieval_note": "此摘录来自引用片段，未取得被引原帖完整链接。"
+          "retrieval_note": "已在X页面核对引用原帖链接与文本。"
         }
       ],
-      "evidence_status": "indexed_excerpts_with_body_corroboration",
-      "retrieval_note": "只显示已获取的原文片段；没有补全引用内容。"
+      "evidence_status": "browser_visible_body_and_quote",
+      "retrieval_note": "已在X浏览器页面核对正文与引用关系；引用较长，保留短摘录和完整原帖链接。"
     }
   ],
   "consumer_rules": [
