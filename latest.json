@@ -2,7 +2,7 @@
   "schema_version": "2.0.0",
   "title": "财经人物灵动岛",
   "format": "original_excerpts_with_quoted_posts",
-  "updated_at": "2026-10-23T04:16:10.279Z",
+  "updated_at": "2026-10-23T11:36:36.032Z",
   "coverage": {
     "status": "partial",
     "complete_timeline": false,
@@ -70,6 +70,25 @@
       "quoted_posts": [],
       "evidence_status": "user_authorized_test_message",
       "retrieval_note": "系统测试问候，不是X推文，也不是投资观点。"
+    },
+    {
+      "id": "x:2113568920221417640",
+      "author": "xtony1314",
+      "published_at": "2026-10-23T09:51:13.449Z",
+      "source_url": "https://x.com/xtony1314/status/2113568920221417640",
+      "body_excerpt": "怎么这么准。。。一丝不差，真2500，我靠！！！",
+      "is_complete": true,
+      "quoted_posts": [
+        {
+          "author": "xtony1314",
+          "published_at": "2026-07-21T03:46:15.975Z",
+          "source_url": "https://x.com/xtony1314/status/2079412616192205200",
+          "body_excerpt": "创业板会跌到2500",
+          "is_complete": false
+        }
+      ],
+      "evidence_status": "browser_visible_body_and_quote",
+      "retrieval_note": "已在X原帖页面核对正文、作者、发布日期和嵌入引用关系；published_at按原帖ID解码为UTC。引用较长，仅保留此前相同短摘录。"
     }
   ],
   "consumer_rules": [
