@@ -2,7 +2,7 @@
   "schema_version": "2.0.0",
   "title": "财经人物灵动岛",
   "format": "original_excerpts_with_quoted_posts",
-  "updated_at": "2026-10-27T03:37:09.505Z",
+  "updated_at": "2026-10-30T03:40:55Z",
   "coverage": {
     "status": "partial",
     "complete_timeline": false,
@@ -107,6 +107,17 @@
       "quoted_posts": [],
       "evidence_status": "browser_visible_body",
       "retrieval_note": "已在X原帖页面核对作者、正文及发布日期；长文仅保存短摘录，无嵌入引用帖。published_at按原帖ID解码为UTC；回复列表未登录不可完整读取。"
+    },
+    {
+      "id": "x:2115987101049311293",
+      "author": "xtony1314",
+      "published_at": "2026-10-30T02:00:12.686Z",
+      "source_url": "https://x.com/xtony1314/status/2115987101049311293",
+      "body_excerpt": "我只关心 我空单什么时候止盈，什么时候抄底。",
+      "is_complete": false,
+      "quoted_posts": [],
+      "evidence_status": "browser_visible_body",
+      "retrieval_note": "已在X原帖页面核对作者及正文，无嵌入引用帖；原文未明确空单对应的标的。长文仅保存短摘录；published_at按原帖ID解码为UTC。回复列表未登录不可完整读取。"
     }
   ],
   "consumer_rules": [
