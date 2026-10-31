@@ -1,0 +1,174 @@
+{
+  "schema_version": "2.0.0",
+  "title": "财经人物灵动岛",
+  "format": "original_excerpts_with_quoted_posts",
+  "updated_at": "2026-10-31T00:22:22Z",
+  "coverage": {
+    "status": "partial",
+    "complete_timeline": false,
+    "original_post_access": "browser_public_profile_readable",
+    "reply_timeline_access": "login_required",
+    "method": "browser_visible_dom",
+    "note": "2026-10-23已通过浏览器读取公开主页、最新帖子及嵌入引用；回复列表触发登录要求。搜索工具的403不代表浏览器页面不可读取。"
+  },
+  "watchlist": [
+    {
+      "handle": "xtony1314",
+      "name": "逍遥XTony（2分钟版）",
+      "url": "https://x.com/xtony1314"
+    },
+    {
+      "handle": "XiaoYao_Capital",
+      "name": "XiaoYao Capital",
+      "url": "https://x.com/XiaoYao_Capital",
+      "notification_policy": "all_new_posts",
+      "filter_override": "每条可核实的新原创帖、回复及本人评论的引用帖都通知并同步；不套用全局投资主题筛选。纯转发不得冒充本人原话。"
+    }
+  ],
+  "records": [
+    {
+      "id": "xtony1314-china-tech-thesis",
+      "author": "xtony1314",
+      "published_at": "2026-10-13T02:43:41.824Z",
+      "source_url": "https://x.com/xtony1314/status/2109837450852106253",
+      "body_excerpt": "这眼光看的够长远不？还叫不？",
+      "is_complete": false,
+      "quoted_posts": [
+        {
+          "author": "xtony1314",
+          "published_at": "2026-08-12T01:33:57.185Z",
+          "source_url": "https://x.com/xtony1314/status/2087351851536777682",
+          "body_excerpt": "越相信中国科技突破，就需要越看空中国科技股。",
+          "is_complete": false
+        }
+      ],
+      "evidence_status": "search_index_excerpts",
+      "retrieval_note": "仅获取短摘录，完整正文请打开原帖。"
+    },
+    {
+      "id": "x:2112806647164961274",
+      "author": "xtony1314",
+      "published_at": "2026-10-21T07:22:13.390Z",
+      "source_url": "https://x.com/xtony1314/status/2112806647164961274",
+      "body_excerpt": "托尼老师准备开始抄底了！",
+      "is_complete": false,
+      "quoted_posts": [
+        {
+          "author": "xtony1314",
+          "date_label": "Jul 21",
+          "published_at": "2026-07-21T03:46:15.975Z",
+          "source_url": "https://x.com/xtony1314/status/2079412616192205200",
+          "body_excerpt": "创业板会跌到2500",
+          "is_complete": false,
+          "retrieval_note": "已在X页面核对引用原帖链接与文本。"
+        }
+      ],
+      "evidence_status": "browser_visible_body_and_quote",
+      "retrieval_note": "已在X浏览器页面核对正文与引用关系；引用较长，保留短摘录和完整原帖链接。"
+    },
+    {
+      "id": "connectivity-test:HELLO-20261023-01",
+      "record_type": "connectivity_test",
+      "author": "财经人物灵动岛",
+      "published_at": "2026-10-23T04:16:10.279Z",
+      "source_url": "https://github.com/king1054-maker/finance-watch/blob/main/latest.json",
+      "body_excerpt": "各位读取「财经人物灵动岛」的朋友和 AI，你们好！这是一条连通性测试消息。测试码：HELLO-20261023-01。",
+      "is_complete": true,
+      "quoted_posts": [],
+      "evidence_status": "user_authorized_test_message",
+      "retrieval_note": "系统测试问候，不是X推文，也不是投资观点。"
+    },
+    {
+      "id": "x:2113568920221417640",
+      "author": "xtony1314",
+      "published_at": "2026-10-23T09:51:13.449Z",
+      "source_url": "https://x.com/xtony1314/status/2113568920221417640",
+      "body_excerpt": "怎么这么准。。。一丝不差，真2500，我靠！！！",
+      "is_complete": true,
+      "quoted_posts": [
+        {
+          "author": "xtony1314",
+          "published_at": "2026-07-21T03:46:15.975Z",
+          "source_url": "https://x.com/xtony1314/status/2079412616192205200",
+          "body_excerpt": "创业板会跌到2500",
+          "is_complete": false
+        }
+      ],
+      "evidence_status": "browser_visible_body_and_quote",
+      "retrieval_note": "已在X原帖页面核对正文、作者、发布日期和嵌入引用关系；published_at按原帖ID解码为UTC。引用较长，仅保留此前相同短摘录。"
+    },
+    {
+      "id": "x:2114901144187121905",
+      "author": "xtony1314",
+      "published_at": "2026-10-27T02:05:00.394Z",
+      "source_url": "https://x.com/xtony1314/status/2114901144187121905",
+      "body_excerpt": "我没有全部持有U，我认为未来十年人民币会大幅升值，所以手里也有不少人民币，",
+      "is_complete": false,
+      "quoted_posts": [],
+      "evidence_status": "browser_visible_body",
+      "retrieval_note": "已在X原帖页面核对作者、正文及发布日期；长文仅保存短摘录，无嵌入引用帖。published_at按原帖ID解码为UTC；回复列表未登录不可完整读取。"
+    },
+    {
+      "id": "x:2115987101049311293",
+      "author": "xtony1314",
+      "published_at": "2026-10-30T02:00:12.686Z",
+      "source_url": "https://x.com/xtony1314/status/2115987101049311293",
+      "body_excerpt": "我只关心 我空单什么时候止盈，什么时候抄底。",
+      "is_complete": false,
+      "quoted_posts": [],
+      "evidence_status": "browser_visible_body",
+      "retrieval_note": "已在X原帖页面核对作者及正文，无嵌入引用帖；原文未明确空单对应的标的。长文仅保存短摘录；published_at按原帖ID解码为UTC。回复列表未登录不可完整读取。"
+    },
+    {
+      "id": "x:2116158971086282880",
+      "author": "XiaoYao_Capital",
+      "published_at": "2026-10-30T13:23:09.696Z",
+      "source_url": "https://x.com/XiaoYao_Capital/status/2116158971086282880",
+      "body_excerpt": "预计 QQQ 660 左右买入，届时 300W U 的实盘会实时公开，",
+      "is_complete": false,
+      "quoted_posts": [],
+      "evidence_status": "browser_visible_body",
+      "retrieval_note": "已在X原帖页面核对作者、正文及日期，无嵌入引用帖；仅保留原文短摘录。published_at按原帖ID解码为UTC；回复列表未登录不可完整读取。"
+    },
+    {
+      "id": "x:2116183418140872751",
+      "author": "xtony1314",
+      "published_at": "2026-10-30T15:00:18.328Z",
+      "source_url": "https://x.com/xtony1314/status/2116183418140872751",
+      "body_excerpt": "周末了，不会跌了，抄底了400WU仓位 比特币多单。",
+      "is_complete": true,
+      "quoted_posts": [],
+      "evidence_status": "browser_visible_body",
+      "retrieval_note": "已在X原帖页面核对作者、正文及日期，无嵌入引用帖；已获取完整文字正文，附件图片未转录。published_at按原帖ID解码为UTC；回复列表未登录不可完整读取。"
+    },
+    {
+      "id": "x:2116216176720445950",
+      "author": "xtony1314",
+      "published_at": "2026-10-30T17:10:28.582Z",
+      "source_url": "https://x.com/xtony1314/status/2116216176720445950",
+      "body_excerpt": "比特币，美股qqq，双重做多，共计1200WU仓位，小一个亿仓位！",
+      "is_complete": false,
+      "quoted_posts": [],
+      "evidence_status": "browser_visible_body",
+      "retrieval_note": "已在X原帖页面核对作者、正文及日期，无嵌入引用帖；仅保留原文短摘录。published_at按原帖ID解码为UTC；回复列表未登录不可完整读取。"
+    },
+    {
+      "id": "x:2116239552327434358",
+      "author": "xtony1314",
+      "published_at": "2026-10-30T18:43:21.761Z",
+      "source_url": "https://x.com/xtony1314/status/2116239552327434358",
+      "body_excerpt": "900W 刀 qqq多单！",
+      "is_complete": true,
+      "quoted_posts": [],
+      "evidence_status": "browser_visible_body",
+      "retrieval_note": "已在X原帖页面核对作者、正文及日期，无嵌入引用帖；已获取完整文字正文，附件图片未转录。published_at按原帖ID解码为UTC；回复列表未登录不可完整读取。"
+    }
+  ],
+  "consumer_rules": [
+    "按顺序显示body_excerpt和quoted_posts中的原文摘录，再附原帖链接。",
+    "不总结、不改写、不解释投资逻辑、不做点位表格、不合并推导观点。",
+    "is_complete=false表示短摘录，不能声称完整原文。",
+    "引文来源或日期缺失保留null，不补写。",
+    "原帖与引用帖时间分别显示，历史帖不标为新发布。"
+  ]
+}
