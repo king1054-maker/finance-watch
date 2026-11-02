@@ -2,7 +2,7 @@
   "schema_version": "2.0.0",
   "title": "财经人物灵动岛",
   "format": "original_excerpts_with_quoted_posts",
-  "updated_at": "2026-10-31T00:22:22Z",
+  "updated_at": "2026-11-02T02:58:39Z",
   "coverage": {
     "status": "partial",
     "complete_timeline": false,
@@ -162,6 +162,17 @@
       "quoted_posts": [],
       "evidence_status": "browser_visible_body",
       "retrieval_note": "已在X原帖页面核对作者、正文及日期，无嵌入引用帖；已获取完整文字正文，附件图片未转录。published_at按原帖ID解码为UTC；回复列表未登录不可完整读取。"
+    },
+    {
+      "id": "x:2117073433465131035",
+      "author": "xy_xtony",
+      "published_at": "2026-11-02T01:56:54.517Z",
+      "source_url": "https://x.com/xy_xtony/status/2117073433465131035",
+      "body_excerpt": "目前 已经买了 1000W的A股！",
+      "is_complete": true,
+      "quoted_posts": [],
+      "evidence_status": "browser_visible_body",
+      "retrieval_note": "已在X原帖页面核对作者、完整文字正文及日期，无嵌入引用帖；附件图片未转录。该作者为原@xtony1314现用账号，已由既有原帖跳转核对；published_at按原帖ID解码为UTC。回复列表未登录不可完整读取。"
     }
   ],
   "consumer_rules": [
