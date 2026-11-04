@@ -2,7 +2,7 @@
   "schema_version": "2.0.0",
   "title": "财经人物灵动岛",
   "format": "original_excerpts_with_quoted_posts",
-  "updated_at": "2026-11-04T00:51:11Z",
+  "updated_at": "2026-11-04T03:42:28Z",
   "coverage": {
     "status": "partial",
     "complete_timeline": false,
@@ -184,6 +184,17 @@
       "quoted_posts": [],
       "evidence_status": "browser_visible_body",
       "retrieval_note": "已在X原帖页面核对作者、完整文字正文及日期，无嵌入引用帖；仅保存短摘录，原文未明确多单对应标的。该作者为原@xtony1314现用账号；published_at按原帖ID解码为UTC。回复列表未登录不可完整读取。"
+    },
+    {
+      "id": "x:2117821370818277424",
+      "author": "xy_xtony",
+      "published_at": "2026-11-04T03:28:56.678Z",
+      "source_url": "https://x.com/xy_xtony/status/2117821370818277424",
+      "body_excerpt": "A股我已经梭哈了1600w，还有大量理财资金在路上，\n这是巨大的机会！",
+      "is_complete": true,
+      "quoted_posts": [],
+      "evidence_status": "browser_visible_body",
+      "retrieval_note": "已在X原帖页面核对作者、完整文字正文及日期，无嵌入引用帖。该作者为原@xtony1314现用账号；published_at按原帖ID解码为UTC。回复列表未登录不可完整读取。"
     }
   ],
   "consumer_rules": [
