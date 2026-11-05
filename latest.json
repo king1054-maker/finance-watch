@@ -2,7 +2,7 @@
   "schema_version": "2.0.0",
   "title": "财经人物灵动岛",
   "format": "original_excerpts_with_quoted_posts",
-  "updated_at": "2026-11-04T06:31:11Z",
+  "updated_at": "2026-11-05T03:36:07Z",
   "coverage": {
     "status": "partial",
     "complete_timeline": false,
@@ -225,6 +225,28 @@
       ],
       "evidence_status": "browser_visible_body_and_quote",
       "retrieval_note": "已在X原帖页面核对作者、正文、日期及嵌入引用关系，并打开被引用原帖核对；两帖均仅保存短摘录。published_at按各原帖ID解码为UTC；回复时间线未登录不可完整读取。"
+    },
+    {
+      "id": "x:2118164754271531253",
+      "author": "xy_xtony",
+      "published_at": "2026-11-05T02:13:25.673Z",
+      "source_url": "https://x.com/xy_xtony/status/2118164754271531253",
+      "body_excerpt": "​美股，比特币，商品期货大宗商品（空石油），A股，",
+      "is_complete": false,
+      "quoted_posts": [],
+      "evidence_status": "browser_visible_body",
+      "retrieval_note": "已在X原帖页面核对作者、完整文字正文及日期，无嵌入引用帖；仅保存短摘录，保留原文零宽字符。published_at按原帖ID解码为UTC；回复时间线未登录不可完整读取。"
+    },
+    {
+      "id": "x:2118174933255966871",
+      "author": "xy_xtony",
+      "published_at": "2026-11-05T02:53:52.532Z",
+      "source_url": "https://x.com/xy_xtony/status/2118174933255966871",
+      "body_excerpt": "群友在周一提到一个股票，阳光电源，\n[…]\n我看完，觉得可以买，立马买了 250W，",
+      "is_complete": false,
+      "quoted_posts": [],
+      "evidence_status": "browser_visible_body",
+      "retrieval_note": "已在X原帖页面核对作者、完整文字正文及日期，无嵌入引用帖；保存同一原帖内两段不连续短摘录，[…]为省略标记。附件图片未转录；published_at按原帖ID解码为UTC；回复时间线未登录不可完整读取。"
     }
   ],
   "consumer_rules": [
