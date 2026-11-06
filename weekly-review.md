@@ -178,3 +178,13 @@
 
 [原帖](https://x.com/XiaoYao_Capital/status/2118529523562201163)
 
+
+## 2026-11-06
+
+@xy_xtony · 原文短摘录
+
+> 我现在手里 950WU QQQ，450WU 比特币，
+> […]
+> 托尼老师一分钱没跑，坚持做多，
+
+[原帖](https://x.com/xy_xtony/status/2118633177808019760)
