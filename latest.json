@@ -2,7 +2,7 @@
   "schema_version": "2.0.0",
   "title": "财经人物灵动岛",
   "format": "original_excerpts_with_quoted_posts",
-  "updated_at": "2026-11-05T03:36:07Z",
+  "updated_at": "2026-11-06T00:21:45Z",
   "coverage": {
     "status": "partial",
     "complete_timeline": false,
@@ -247,6 +247,17 @@
       "quoted_posts": [],
       "evidence_status": "browser_visible_body",
       "retrieval_note": "已在X原帖页面核对作者、完整文字正文及日期，无嵌入引用帖；保存同一原帖内两段不连续短摘录，[…]为省略标记。附件图片未转录；published_at按原帖ID解码为UTC；回复时间线未登录不可完整读取。"
+    },
+    {
+      "id": "x:2118380478839587243",
+      "author": "xy_xtony",
+      "published_at": "2026-11-05T16:30:38.418Z",
+      "source_url": "https://x.com/xy_xtony/status/2118380478839587243",
+      "body_excerpt": "一点没跑，一来一回100wu没了，我现在只想回本，不想吃越南菜了。。。",
+      "is_complete": true,
+      "quoted_posts": [],
+      "evidence_status": "browser_visible_body",
+      "retrieval_note": "已在X原帖页面核对作者、完整文字正文及日期，无嵌入引用帖；原文未明确对应标的，附件图片未转录。published_at按原帖ID解码为UTC；回复时间线未登录不可完整读取。"
     }
   ],
   "consumer_rules": [
