@@ -2,7 +2,7 @@
   "schema_version": "2.0.0",
   "title": "财经人物灵动岛",
   "format": "original_excerpts_with_quoted_posts",
-  "updated_at": "2026-11-06T00:21:45Z",
+  "updated_at": "2026-11-06T03:24:51Z",
   "coverage": {
     "status": "partial",
     "complete_timeline": false,
@@ -258,6 +258,36 @@
       "quoted_posts": [],
       "evidence_status": "browser_visible_body",
       "retrieval_note": "已在X原帖页面核对作者、完整文字正文及日期，无嵌入引用帖；原文未明确对应标的，附件图片未转录。published_at按原帖ID解码为UTC；回复时间线未登录不可完整读取。"
+    },
+    {
+      "id": "x:2118529336588603601",
+      "author": "XiaoYao_Capital",
+      "published_at": "2026-11-06T02:22:08.871Z",
+      "source_url": "https://x.com/XiaoYao_Capital/status/2118529336588603601",
+      "body_excerpt": "653 的位置，已经全部梭哈QQQ 了，260WU QQQ 做保证金再开了 150WU 合约，共计 410WU 仓位，",
+      "is_complete": false,
+      "quoted_posts": [
+        {
+          "author": "XiaoYao_Capital",
+          "published_at": "2026-10-30T13:23:09.696Z",
+          "source_url": "https://x.com/XiaoYao_Capital/status/2116158971086282880",
+          "body_excerpt": "预计 QQQ 660 左右买入，届时 300W U 的实盘会实时公开，",
+          "is_complete": false
+        }
+      ],
+      "evidence_status": "browser_visible_body_and_quote",
+      "retrieval_note": "已核对X原帖作者、完整文字正文、日期及嵌入引用关系；仅保存原文短摘录。published_at按原帖ID解码为UTC；回复时间线未登录不可完整读取。"
+    },
+    {
+      "id": "x:2118529523562201163",
+      "author": "XiaoYao_Capital",
+      "published_at": "2026-11-06T02:22:53.449Z",
+      "source_url": "https://x.com/XiaoYao_Capital/status/2118529523562201163",
+      "body_excerpt": "接上一条，\n653 的位置，已经全部梭哈QQQ 了，260WU QQQ 做保证金再开了 150WU 合约，共计 410WU 仓位，",
+      "is_complete": false,
+      "quoted_posts": [],
+      "evidence_status": "browser_visible_body",
+      "retrieval_note": "已核对X原帖作者、完整文字正文、日期，无嵌入引用帖；仅保存原文短摘录。published_at按原帖ID解码为UTC；回复时间线未登录不可完整读取。"
     }
   ],
   "consumer_rules": [
