@@ -156,3 +156,25 @@
 > 一点没跑，一来一回100wu没了，我现在只想回本，不想吃越南菜了。。。
 
 [原帖](https://x.com/xy_xtony/status/2118380478839587243)
+
+## 2026-11-06
+
+@XiaoYao_Capital · 原文短摘录
+
+> 653 的位置，已经全部梭哈QQQ 了，260WU QQQ 做保证金再开了 150WU 合约，共计 410WU 仓位，
+
+[原帖](https://x.com/XiaoYao_Capital/status/2118529336588603601)
+
+引用的原文短摘录（2026-10-30）：
+
+> 预计 QQQ 660 左右买入，届时 300W U 的实盘会实时公开，
+
+[被引用原帖](https://x.com/XiaoYao_Capital/status/2116158971086282880)
+
+@XiaoYao_Capital · 原文短摘录
+
+> 接上一条，
+> 653 的位置，已经全部梭哈QQQ 了，260WU QQQ 做保证金再开了 150WU 合约，共计 410WU 仓位，
+
+[原帖](https://x.com/XiaoYao_Capital/status/2118529523562201163)
+
