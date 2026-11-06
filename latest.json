@@ -2,7 +2,7 @@
   "schema_version": "2.0.0",
   "title": "财经人物灵动岛",
   "format": "original_excerpts_with_quoted_posts",
-  "updated_at": "2026-11-06T03:24:51Z",
+  "updated_at": "2026-11-06T12:23:42Z",
   "coverage": {
     "status": "partial",
     "complete_timeline": false,
@@ -288,6 +288,17 @@
       "quoted_posts": [],
       "evidence_status": "browser_visible_body",
       "retrieval_note": "已核对X原帖作者、完整文字正文、日期，无嵌入引用帖；仅保存原文短摘录。published_at按原帖ID解码为UTC；回复时间线未登录不可完整读取。"
+    },
+    {
+      "id": "x:2118633177808019760",
+      "author": "xy_xtony",
+      "published_at": "2026-11-06T09:14:46.547Z",
+      "source_url": "https://x.com/xy_xtony/status/2118633177808019760",
+      "body_excerpt": "我现在手里 950WU QQQ，450WU 比特币，\n[…]\n托尼老师一分钱没跑，坚持做多，",
+      "is_complete": false,
+      "quoted_posts": [],
+      "evidence_status": "browser_visible_body",
+      "retrieval_note": "已在X原帖页面核对作者、完整文字正文及日期，无嵌入引用帖；保存同一原帖内两段不连续短摘录，[…]为省略标记。published_at按原帖ID解码为UTC；回复时间线未登录不可完整读取。"
     }
   ],
   "consumer_rules": [
