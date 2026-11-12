@@ -2,14 +2,14 @@
   "schema_version": "2.0.0",
   "title": "财经人物灵动岛",
   "format": "original_excerpts_with_quoted_posts",
-  "updated_at": "2026-11-06T12:23:42Z",
+  "updated_at": "2026-11-12T00:42:35Z",
   "coverage": {
     "status": "partial",
     "complete_timeline": false,
-    "original_post_access": "browser_public_profile_readable",
+    "original_post_access": "public_search_index_and_profile_mirror",
     "reply_timeline_access": "login_required",
-    "method": "browser_visible_dom",
-    "note": "2026-10-23已通过浏览器读取公开主页、最新帖子及嵌入引用；回复列表触发登录要求。搜索工具的403不代表浏览器页面不可读取。"
+    "method": "public_search_index_and_mirror",
+    "note": "2026-11-12：X原站帖子页未能直接读取；本轮通过公开索引与公开时间线镜像核对可见原创帖。回复列表仍无法完整读取；未覆盖的回复和索引缺失内容不能视为无更新。"
   },
   "watchlist": [
     {
@@ -299,6 +299,37 @@
       "quoted_posts": [],
       "evidence_status": "browser_visible_body",
       "retrieval_note": "已在X原帖页面核对作者、完整文字正文及日期，无嵌入引用帖；保存同一原帖内两段不连续短摘录，[…]为省略标记。published_at按原帖ID解码为UTC；回复时间线未登录不可完整读取。"
+    },
+    {
+      "id": "x:2120385640860918269",
+      "author": "xy_xtony",
+      "published_at": "2026-11-11T05:18:26.298Z",
+      "source_url": "https://x.com/xy_xtony/status/2120385640860918269",
+      "body_excerpt": "我现在正在做空 ZEC […] 下跌远没有结束，先看到 780！",
+      "is_complete": false,
+      "quoted_posts": [],
+      "evidence_status": "public_search_index_excerpt",
+      "retrieval_note": "通过公开索引结果核对作者、原帖ID、发布时间与摘录；X原站帖子页未能直接读取，完整正文未获取。"
+    },
+    {
+      "id": "x:2120530555850936639",
+      "author": "xy_xtony",
+      "published_at": "2026-11-11T14:54:16.724Z",
+      "source_url": "https://x.com/xy_xtony/status/2120530555850936639",
+      "body_excerpt": "只好加大做空了ZEC！",
+      "is_complete": false,
+      "quoted_posts": [
+        {
+          "author": null,
+          "published_at": null,
+          "source_url": null,
+          "body_excerpt": "未获取",
+          "is_complete": false,
+          "retrieval_note": "公开索引将该帖标记为含引用；被引用原文、作者、日期与链接均未获取。"
+        }
+      ],
+      "evidence_status": "public_search_index_excerpt_quote_unavailable",
+      "retrieval_note": "通过公开索引结果核对作者、原帖ID、发布时间与摘录；索引标记为含引用，但引用内容未获取；X原站帖子页未能直接读取。"
     }
   ],
   "consumer_rules": [
