@@ -2,14 +2,14 @@
   "schema_version": "2.0.0",
   "title": "财经人物灵动岛",
   "format": "original_excerpts_with_quoted_posts",
-  "updated_at": "2026-11-12T00:42:35Z",
+  "updated_at": "2026-11-13T00:47:04Z",
   "coverage": {
     "status": "partial",
     "complete_timeline": false,
-    "original_post_access": "public_search_index_and_profile_mirror",
-    "reply_timeline_access": "login_required",
-    "method": "public_search_index_and_mirror",
-    "note": "2026-11-12：X原站帖子页未能直接读取；本轮通过公开索引与公开时间线镜像核对可见原创帖。回复列表仍无法完整读取；未覆盖的回复和索引缺失内容不能视为无更新。"
+    "original_post_access": "public_profile_mirror",
+    "reply_timeline_access": "public_mirror_partial",
+    "method": "public_profile_mirror",
+    "note": "2026-11-13：公开时间线镜像核对到 @xy_xtony 新引用帖；X原站帖子页仍403。XiaoYao_Capital镜像时间线最新可见至2026-11-06；回复流覆盖不完整，未覆盖内容不能视为无更新。"
   },
   "watchlist": [
     {
@@ -330,6 +330,26 @@
       ],
       "evidence_status": "public_search_index_excerpt_quote_unavailable",
       "retrieval_note": "通过公开索引结果核对作者、原帖ID、发布时间与摘录；索引标记为含引用，但引用内容未获取；X原站帖子页未能直接读取。"
+    },
+    {
+      "id": "x:2120554249923051761",
+      "author": "xy_xtony",
+      "published_at": "2026-11-11T16:28:25.831Z",
+      "source_url": "https://x.com/xy_xtony/status/2120554249923051761",
+      "body_excerpt": "ZEC不好跌了，平本出了，开始做多比特币。",
+      "is_complete": true,
+      "quoted_posts": [
+        {
+          "author": "xy_xtony",
+          "published_at": "2026-11-11T14:54:16.724Z",
+          "source_url": "https://x.com/xy_xtony/status/2120530555850936639",
+          "body_excerpt": "只好加大做空了ZEC！",
+          "is_complete": false,
+          "retrieval_note": "引用原帖已在latest.json中单独归档；本条仅保留与新帖引用关系对应的短摘录。"
+        }
+      ],
+      "evidence_status": "public_mirror_full_body_and_quote",
+      "retrieval_note": "通过公开时间线镜像核对作者、原帖ID、完整短帖及嵌入引用关系；published_at按原帖ID解码为UTC；X原站帖子页未能直接读取。"
     }
   ],
   "consumer_rules": [
