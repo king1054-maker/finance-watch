@@ -2,14 +2,14 @@
   "schema_version": "2.0.0",
   "title": "财经人物灵动岛",
   "format": "original_excerpts_with_quoted_posts",
-  "updated_at": "2026-11-13T00:47:04Z",
+  "updated_at": "2026-11-14T00:35:03Z",
   "coverage": {
     "status": "partial",
     "complete_timeline": false,
     "original_post_access": "public_profile_mirror",
     "reply_timeline_access": "public_mirror_partial",
     "method": "public_profile_mirror",
-    "note": "2026-11-13：公开时间线镜像核对到 @xy_xtony 新引用帖；X原站帖子页仍403。XiaoYao_Capital镜像时间线最新可见至2026-11-06；回复流覆盖不完整，未覆盖内容不能视为无更新。"
+    "note": "2026-11-14：SoPilot公开账号页同步至2026-11-14，补录@xy_xtony于2026-11-11发布的比特币多单退出帖（ID 2120380878971097369）；X原站帖子页403，完整正文未获取。XiaoYao_Capital本轮未能取得可核验的最新公开时间线，回复流覆盖不完整；未覆盖内容不能视为无更新。"
   },
   "watchlist": [
     {
@@ -350,6 +350,17 @@
       ],
       "evidence_status": "public_mirror_full_body_and_quote",
       "retrieval_note": "通过公开时间线镜像核对作者、原帖ID、完整短帖及嵌入引用关系；published_at按原帖ID解码为UTC；X原站帖子页未能直接读取。"
+    },
+    {
+      "id": "x:2120380878971097369",
+      "author": "xy_xtony",
+      "published_at": "2026-11-11T04:59:30.975Z",
+      "source_url": "https://x.com/xy_xtony/status/2120380878971097369",
+      "body_excerpt": "比特币多单7.4已经割了，这个圈子烂完了",
+      "is_complete": false,
+      "quoted_posts": [],
+      "evidence_status": "public_profile_mirror_excerpt",
+      "retrieval_note": "通过SoPilot公开账号页面读取到该帖文本片段和日期；X原站帖子页返回403，完整正文未获取。"
     }
   ],
   "consumer_rules": [
