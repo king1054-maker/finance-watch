@@ -2,14 +2,14 @@
   "schema_version": "2.0.0",
   "title": "财经人物灵动岛",
   "format": "original_excerpts_with_quoted_posts",
-  "updated_at": "2026-11-17T00:55:11.917Z",
+  "updated_at": "2026-11-18T01:06:37.783Z",
   "coverage": {
     "status": "partial",
     "complete_timeline": false,
     "original_post_access": "public_profile_mirror",
     "reply_timeline_access": "public_mirror_partial",
     "method": "public_profile_mirror",
-    "note": "2026-11-14：SoPilot公开账号页同步至2026-11-14，补录@xy_xtony于2026-11-11发布的比特币多单退出帖（ID 2120380878971097369）；X原站帖子页403，完整正文未获取。XiaoYao_Capital本轮未能取得可核验的最新公开时间线，回复流覆盖不完整；未覆盖内容不能视为无更新。；2026-11-15：通过SoPilot公开创作者页及关联比特币话题页发现@xy_xtony于北京时间11月15日06:22、06:35发布的两条新帖，原帖ID 2121730392248168627、2121733877056393358；X原站返回403，归档为公开页面短摘录。@XiaoYao_Capital公开主页及可见回复最新仍为11月6日，回复覆盖不完整。；2026-11-16：通过teapawt公开时间线及单帖页面核对@xy_xtony于2026-11-15发布的两条新增投资相关帖子，ID 2121935291351187876、2121886320230580420；X原站未直接读取，按公开镜像短摘录归档。@XiaoYao_Capital公开主页及Tweets & Replies可见内容最新仍为11月6日，未见新增；回复流覆盖仍受公开镜像范围限制。；2026-11-17：SoPilot公开推文排行页发现@xy_xtony于2026-11-16 20:54（UTC+8）发布投资相关帖，原帖ID 2122312357645017297；X原帖返回403，按公开页面短摘录归档。Sotwe公开主页另显示@xy_xtony约2小时前有一条新帖；精确发布时间、原帖ID及原帖链接未取得，未归档。@XiaoYao_Capital的公开主页及Tweets & Replies可见内容最新仍为11月6日，未见新增；回复流覆盖不完整。"
+    "note": "2026-11-18：公开镜像单帖页核对新增及补录；X原站403。XiaoYao_Capital公开回复镜像最新可见11月6日，覆盖不完整。"
   },
   "watchlist": [
     {
@@ -416,6 +416,28 @@
       "quoted_posts": [],
       "evidence_status": "public_mirror_excerpt_with_status_id",
       "retrieval_note": "SoPilot公开推文排行页显示作者@xy_xtony、原文片段及X跳转链接；打开X原帖返回403。published_at由原帖ID解码为UTC；归档仅保留短摘录。"
+    },
+    {
+      "id": "x:2122236061279768877",
+      "author": "xy_xtony",
+      "published_at": "2026-11-16T07:51:20.905Z",
+      "source_url": "https://x.com/xy_xtony/status/2122236061279768877",
+      "body_excerpt": "最少一个月内，就是上下震荡了，短期不会跌了，看反弹到6.7左右，",
+      "is_complete": true,
+      "quoted_posts": [],
+      "evidence_status": "public_mirror_individual_post_page",
+      "retrieval_note": "补录此前未取得原帖链接的内容；公开镜像单帖页核对文字、作者和日期。"
+    },
+    {
+      "id": "x:2122629551419428965",
+      "author": "xy_xtony",
+      "published_at": "2026-11-17T09:54:56.265Z",
+      "source_url": "https://x.com/xy_xtony/status/2122629551419428965",
+      "body_excerpt": "A股创业板PE 26倍，历史上比今天低的日子，只有1%，",
+      "is_complete": false,
+      "quoted_posts": [],
+      "evidence_status": "public_mirror_individual_post_page",
+      "retrieval_note": "公开镜像单帖页及SoPilot排行核对作者、日期、原帖ID；长文仅保存短摘录。"
     }
   ],
   "consumer_rules": [
