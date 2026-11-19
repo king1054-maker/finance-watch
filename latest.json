@@ -2,7 +2,7 @@
   "schema_version": "2.0.0",
   "title": "财经人物灵动岛",
   "format": "original_excerpts_with_quoted_posts",
-  "updated_at": "2026-11-18T01:06:37.783Z",
+  "updated_at": "2026-11-19T00:54:45Z",
   "coverage": {
     "status": "partial",
     "complete_timeline": false,
@@ -438,6 +438,17 @@
       "quoted_posts": [],
       "evidence_status": "public_mirror_individual_post_page",
       "retrieval_note": "公开镜像单帖页及SoPilot排行核对作者、日期、原帖ID；长文仅保存短摘录。"
+    },
+    {
+      "id": "x:2122876260552696145",
+      "author": "xy_xtony",
+      "published_at": "2026-11-18T02:15:00Z",
+      "source_url": "https://x.com/xy_xtony/status/2122876260552696145",
+      "body_excerpt": "A股遍地是黄金，先梭哈了2000W，这么便宜不买那不是煞笔吗？",
+      "is_complete": false,
+      "quoted_posts": [],
+      "evidence_status": "public_mirror_individual_post_page",
+      "retrieval_note": "nitter.cf公开单帖页面显示作者、日期、原帖ID及正文；只保存短摘录以遵守引用长度限制。"
     }
   ],
   "consumer_rules": [
